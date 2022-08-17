@@ -67,10 +67,10 @@ canonifyURLs = true
 
   # options for highlight.js (version, additional languages, and theme)
   disable_highlight = true # set to true to disable Highlight
-  highlightjsVersion = "9.11.0"
-  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsVersion = ""
+  highlightjsCDN = ""
   highlightjsLang = ["r", "yaml", "css"]
-  highlightjsTheme = "github"
+  highlightjsTheme = ""
   MathJaxCDN = "//cdn.bootcss.com"
   MathJaxVersion = "2.7.1"
 
@@ -167,7 +167,7 @@ canonifyURLs = true
   stackoverflow    = "" # User Number
   bitbucket        = ""
   jsfiddle         = ""
-  codepen          = "pkamath2"
+  codepen          = ""
   # Visual Art Communities
   deviantart       = ""
   flickr           = ""
@@ -193,7 +193,7 @@ canonifyURLs = true
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "purnima.kamath.art"
+  instagram        = ""
   tumblr           = ""
   twitter          = "@purnimakamath"
   skype            = ""
@@ -201,7 +201,7 @@ canonifyURLs = true
   pinterest        = ""
   telegram         = ""
   vine             = ""
-  googlescholar    = "yyNKopcAAAAJ"
+  googlescholar    = ""
   orcid            = ""
   researchgate     = ""
   # Email

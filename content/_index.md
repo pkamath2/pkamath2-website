@@ -3,9 +3,8 @@ title = "About Me"
 date = "2022-06-01"
 +++
 
-Hello! Welcome to my tiny corner on the internet!
-
-I am a PhD Researcher with the [Department of Communications and New Media](https://fass.nus.edu.sg/cnm/) at the National University of Singapore (NUS), being advised by [Dr. Lonce Wyse](https://lonce.org/),  [Dr. Suranga Nanayakkara](https://suranga.info/) and [Dr. Kokil Jaidka](https://kokiljaidka.wordpress.com/). My research interests are at the intersection of deep learning for audio and human computer interaction. I am also interested in exploring algorithmic computational creativity using deep neural networks and genetic algorithms. 
+I am a PhD researcher who is passionate about bridging the gap between arts and technology by building simplified tools for creativity.  
+Currently, I am focusing on simplifying synthesis and evaluation of audio textures using AI, HCI and web technologies at the National University of Singapore (NUS). I am being advised by [Dr. Suranga Nanayakkara](https://suranga.info/), [Dr. Kokil Jaidka](https://kokiljaidka.wordpress.com/), and [Dr. Lonce Wyse](https://lonce.org/). 
 
 Before NUS, I worked in the industry as a full-stack software engineer for ~15 years in various roles. I helped build and architect solutions for various financial institutions, such as Credit Suisse, Lehman Brothers, and Morgan Stanley, and consulting organizations, such as Capgemini and Oliver Wyman. 
 
