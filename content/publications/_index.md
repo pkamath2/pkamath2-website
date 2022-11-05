@@ -14,8 +14,9 @@ link = ""
 +++
 # 2022
 
-* **Kamath, P.**, Li, Z., Gupta, C., Jaidka, K., Nanayakkara, S., Wyse, L. [Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas](). (Under Review)
+* Gupta, C.<sup> * </sup>, **Kamath, P.** <sup> * </sup>, Wei, Y., Li, Z.,  Nanayakkara, S., Wyse, L. [Towards Controllable Audio Texture Morphing]().  (Under Review) </i><sub><sup>*equal contribution</sup></sub>
 
+* **Kamath, P.**, Li, Z., Gupta, C., Jaidka, K., Nanayakkara, S., Wyse, L. [Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas](). (Under Review)
 
 * Gupta, C., Wei, Y., Gong, Z., **Kamath, P.**, Li, Z., Wyse, L. [Parameter Sensitivity of Deep-Feature based Evaluation Metrics for Audio Textures](). In *23rd International Society for Music Informaiton Retrieval Conference (ISMIR).* 2022  (Accepted, pending publication)
 
