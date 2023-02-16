@@ -14,11 +14,11 @@ link = ""
 +++
 # 2022
 
-* Gupta, C.<sup> * </sup>, **Kamath, P.** <sup> * </sup>, Wei, Y., Li, Z.,  Nanayakkara, S., Wyse, L. [Towards Controllable Audio Texture Morphing]().  (Under Review) </i><sub><sup>*equal contribution</sup></sub>
+* **Kamath, P.**, Li, Z., Gupta, C., Jaidka, K., Nanayakkara, S., Wyse, L. [Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas](). In 28th International Conference on Intelligent User Interfaces (IUI '23), March 27–31, 2023, Sydney, NSW, Australia (Accepted Pending Publication)
 
-* **Kamath, P.**, Li, Z., Gupta, C., Jaidka, K., Nanayakkara, S., Wyse, L. [Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas](). (Under Review)
+* Gupta, C.<sup> * </sup>, **Kamath, P.** <sup> * </sup>, Wei, Y., Li, Z.,  Nanayakkara, S., Wyse, L. [Towards Controllable Audio Texture Morphing]().  In *48th IEEE Internation Conference on Acoustics, Speech and Signal Processing* (Accepted Pending Publication) </i><sub><sup>*equal contribution</sup></sub>
 
-* Gupta, C., Wei, Y., Gong, Z., **Kamath, P.**, Li, Z., Wyse, L. [Parameter Sensitivity of Deep-Feature based Evaluation Metrics for Audio Textures](). In *23rd International Society for Music Informaiton Retrieval Conference (ISMIR).* 2022  (Accepted, pending publication)
+* Gupta, C., Wei, Y., Gong, Z., **Kamath, P.**, Li, Z., Wyse, L. [Parameter Sensitivity of Deep-Feature based Evaluation Metrics for Audio Textures](https://arxiv.org/pdf/2208.10743). In *23rd International Society for Music Informaiton Retrieval Conference (ISMIR).* 2022  (Accepted, pending publication)
 
 * Wyse, L., **Kamath, P.**, Gupta, C. [Sound Model Factory: An Integrated System Architecture for Generative Audio Modelling](https://link.springer.com/chapter/10.1007/978-3-031-03789-4_20). In *International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar) (pp. 308-322). Springer, Cham.* 2022
 
