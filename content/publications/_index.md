@@ -14,9 +14,16 @@ link = ""
 +++
 # 2023
 
-* **Kamath, P.**, Li, Z., Gupta, C., Jaidka, K., Nanayakkara, S., Wyse, L. [Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas](). In *28th International Conference on Intelligent User Interfaces (IUI '23), March 27–31, 2023, Sydney, NSW, Australia* (Accepted Pending Publication)
+* **Kamath, P.**, Gupta, C., Wyse, L., & Nanayakkara, S. (2023). [Example-Based Framework for Perceptually Guided Audio Texture Generation](https://arxiv.org/abs/2308.11859).   
+(Under Review).
 
-* Gupta, C.<sup> * </sup>, **Kamath, P.** <sup> * </sup>, Wei, Y., Li, Z.,  Nanayakkara, S., Wyse, L. [Towards Controllable Audio Texture Morphing]().  In *48th IEEE Internation Conference on Acoustics, Speech and Signal Processing* (Accepted Pending Publication)   
+* **Kamath, P.**, Islam, T. N., Gupta, C., Wyse, L., & Nanayakkara, S. [Dcase task-7: StyleGAN2-based foley sound synthesis. Tech. Rep.](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Kamath_6_t7.pdf), June 2023.  
+<img src="/img/fontawesome/trophy-solid.svg" width=20 height=20> *Won the **3rd place** at [DCASE Foley Sound Synthesis Challenge 2023](https://dcase.community/challenge2023/task-foley-sound-synthesis-results#track-b)*
+
+* **Kamath, P.**, Li, Z., Gupta, C., Jaidka, K., Nanayakkara, S., & Wyse, L. (2023, March). [Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas](https://dl.acm.org/doi/abs/10.1145/3581641.3584083). In *Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI '23) , March 27–31, 2023, Sydney, NSW, Australia (pp. 621-632)*.
+
+
+* Gupta, C.<sup> * </sup>, **Kamath, P.** <sup> * </sup>, Wei, Y., Li, Z.,  Nanayakkara, S., & Wyse, L. [Towards Controllable Audio Texture Morphing](https://ieeexplore.ieee.org/abstract/document/10096328/).  In *48th IEEE Internation Conference on Acoustics, Speech and Signal Processing ICASSP 2023 (pp. 1-5). IEEE.*   
 </i><sub><sup>*equal contribution</sup></sub>
   
 # 2022  

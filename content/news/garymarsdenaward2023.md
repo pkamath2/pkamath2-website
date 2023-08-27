@@ -2,7 +2,7 @@
 type = "news"
 author = ""
 date = "2023-02-10"
-title = "I am fortunate to be a recipient of the prestigious SIGCHI Gary Marsden Travel Award."
+title = "I feel fortunate and thrilled to be a recipient of the prestigious SIGCHI **Gary Marsden Travel Award**."
 description = ""
 featured = ""
 featuredpath = ""
