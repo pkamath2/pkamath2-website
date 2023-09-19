@@ -13,6 +13,9 @@ format = ""
 link = ""
 +++
 # 2023
+* **Kamath, P.**, Morreale, F., Bagaskara, P., Wei, Y., & Nanayakkara, S. (2023). [Sound Designer-Generative AI Interactions: Towards Designing Creative
+Support Tools for Professional Sound Designers]().   
+(Under Review).
 
 * **Kamath, P.**, Gupta, C., Wyse, L., & Nanayakkara, S. (2023). [Example-Based Framework for Perceptually Guided Audio Texture Generation](https://arxiv.org/abs/2308.11859).   
 (Under Review).
