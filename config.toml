@@ -94,7 +94,7 @@ canonifyURLs = true
 [params.intro]
   header    = "Purnima Kamath"
 
-  paragraph = 'PhD Researcher<i class="fa-solid fa-at"></i>NUS <br/> Painter in oils <i class="fa-solid fa-palette"></i> <br/> Generative art nerd <i class="fa-solid fa-heart"></i>'
+  paragraph = '<span style="text-transform: lowercase">(She/Her)</span> <br/> PhD Researcher<i class="fa-solid fa-at"></i>NUS <br/> Painter in oils <i class="fa-solid fa-palette"></i> <br/> Generative art nerd <i class="fa-solid fa-heart"></i>'
 
   about     = ""
 

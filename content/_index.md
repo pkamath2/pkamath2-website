@@ -3,7 +3,7 @@ title = "About Me"
 date = "2022-06-01"
 +++
 
-I am a PhD candidate at the National University of Singapore (NUS) and I am passionate about bridging the gap between arts and technology by building simplified tools for creativity. Currently, I am focusing on simplifying synthesis and evaluation of audio for sound design using AI and HCI. I am being advised by [Dr. Suranga Nanayakkara](https://suranga.info/), [Dr. Kokil Jaidka](https://kokiljaidka.wordpress.com/), and [Dr. Lonce Wyse](https://lonce.org/). 
+I am a PhD candidate at the National University of Singapore (NUS). I am passionate about bridging the gap between arts and technology by building simplified tools for creativity. Currently, I am focusing on simplifying synthesis and evaluation of audio for sound design using HCI and AI technologies. I am being advised by [Dr. Suranga Nanayakkara](https://suranga.info/), [Dr. Kokil Jaidka](https://kokiljaidka.wordpress.com/), and [Dr. Lonce Wyse](https://lonce.org/). 
 
 Before NUS, I worked in the industry for ~15 years in various roles. I helped build and architect solutions for various financial institutions, such as Credit Suisse, Lehman Brothers, and Morgan Stanley, and consulting organizations, such as Capgemini and Oliver Wyman. 
 
