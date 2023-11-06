@@ -134,28 +134,35 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
+  name = "CV"
+  url = "/documents/Purnima-Kamath-Academic-Resume.pdf"
+  identifier = "fa fa-file"
+  weight = 4
+
+[[menu.main]]
   name = "Blog"
   url = "https://medium.com/@prnmkmth"
   identifier = "fa fa-paragraph"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Talks"
   url = "/talks"
   identifier = "fa fa-microphone-lines"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Paintings"
   url = "https://www.instagram.com/purnima.kamath.art/"
   identifier = "fa fa-palette"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "Generative Art"
   url = "/genart/"
   identifier = "fa fa-shapes"
-  weight = 7
+  weight = 8
+
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
