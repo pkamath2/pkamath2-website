@@ -135,7 +135,7 @@ canonifyURLs = true
 
 [[menu.main]]
   name = "CV"
-  url = "/documents/Purnima-Kamath-Academic-Resume.pdf"
+  url = "/documents/purnima-kamath-academic-resume.pdf"
   identifier = "fa fa-file"
   weight = 4
 
