@@ -12,13 +12,19 @@ linktitle = ""
 format = ""
 link = ""
 +++
-# 2023
-* **Kamath, P.**, Morreale, F., Bagaskara, P., Wei, Y., & Nanayakkara, S. (2023). [Sound Designer-Generative AI Interactions: Towards Designing Creative
-Support Tools for Professional Sound Designers]().   
+# 2024
+
+* **Kamath, P.**, Gupta, C., & Nanayakkara, S. (2024). [MorphFader: Enabling Fine-grained Semantic Control for Text-to-Audio Morphing through Fader-like Interactions](). (Under Review).   
+[See Demo](https://pkamath2.github.io/audio-morphing-with-text/webpage/) 
+
+* **Kamath, P.**, Gupta, C., Wyse, L., & Nanayakkara, S. (2024). [Example-Based Framework for Perceptually Guided Audio Texture Generation](https://arxiv.org/abs/2308.11859).   
 (Under Review).
 
-* **Kamath, P.**, Gupta, C., Wyse, L., & Nanayakkara, S. (2023). [Example-Based Framework for Perceptually Guided Audio Texture Generation](https://arxiv.org/abs/2308.11859).   
-(Under Review).
+* **Kamath, P.**, Morreale, F., Bagaskara, P., Wei, Y., & Nanayakkara, S. (2024). [Sound Designer-Generative AI Interactions: Towards Designing Creative
+Support Tools for Professional Sound Designers]().   
+(Conditionally Accepted at **CHI 2024**. Pending presentation &amp; publication in May 2024.).
+
+# 2023
 
 * **Kamath, P.**, Islam, T. N., Gupta, C., Wyse, L., & Nanayakkara, S. [Dcase task-7: StyleGAN2-based foley sound synthesis. Tech. Rep.](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Kamath_6_t7.pdf), June 2023.  
 <img src="/img/fontawesome/trophy-solid.svg" width=20 height=20> *Won the **3rd place** at [DCASE Foley Sound Synthesis Challenge 2023](https://dcase.community/challenge2023/task-foley-sound-synthesis-results#track-b)*
