@@ -18,11 +18,11 @@ link = ""
 [See Demo](https://pkamath2.github.io/audio-morphing-with-text/webpage/) 
 
 * **Kamath, P.**, Gupta, C., Wyse, L., & Nanayakkara, S. (2024). [Example-Based Framework for Perceptually Guided Audio Texture Generation](https://arxiv.org/abs/2308.11859).   
-(Under Review).
+(Accepted and pending publication at **IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)**).
 
 * **Kamath, P.**, Morreale, F., Bagaskara, P., Wei, Y., & Nanayakkara, S. (2024). [Sound Designer-Generative AI Interactions: Towards Designing Creative
 Support Tools for Professional Sound Designers]().   
-(Conditionally Accepted at **CHI 2024**. Pending presentation &amp; publication in May 2024.).
+(Accepted at **CHI 2024**. Pending presentation &amp; publication in May 2024.).
 
 # 2023
 
