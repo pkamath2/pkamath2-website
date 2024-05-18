@@ -13,6 +13,14 @@ format = ""
 link = ""
 +++
 
+## 2024
+* **(Conference)** (May'24) (To Appear) ACM CHI'24: To present my paper "Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers" in Hawaii, USA.
+
+## 2023
+* **(Conference)** (March'23) ACM IUI'23 Sydney: Presented my paper "Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas"
+* **(Meetup)** (March'23) Invited to give a talk at the NUS School of Computing (SoC) Women In Technology forum for International Women's Day
+* **(Symposium)** (February '23) Presented a poster and demo on "Interactive Generative Modelling" at Music Research in Singapore Symposium (MRSS)
+
 ## 2022
 * **(Conference)** (25th May) IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP): Show & Tell demonstration - <a href="https://youtu.be/4kY96IdiEnc">Sound Model Factory: An Integrated System Architecture for Generative Audio Modeling</a>
 
