@@ -14,7 +14,8 @@ link = ""
 +++
 
 ## 2024
-* **(Conference)** (May'24) (To Appear) ACM CHI'24: To present my paper "Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers" in Hawaii, USA.
+* **(Seminar)** (September' 24) Hearing Seminar at Center for Computer Research in Music and Acoustics (CCRMA) at Stanford University.
+* **(Conference)** (May'24) ACM CHI'24: Presented my paper "Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers" in Hawaii, USA.
 
 ## 2023
 * **(Conference)** (March'23) ACM IUI'23 Sydney: Presented my paper "Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas"

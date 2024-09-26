@@ -13,9 +13,9 @@ format = ""
 link = ""
 +++
 # 2024
-<!-- 
-* **Kamath, P.**, Gupta, C., & Nanayakkara, S. (2024). [MorphFader: Enabling Fine-grained Semantic Control for Text-to-Audio Morphing through Fader-like Interactions](). (Under Review).   
-[See Demo](https://pkamath2.github.io/audio-morphing-with-text/webpage/)  -->
+
+* **Kamath, P.**, Gupta, C., & Nanayakkara, S. (2024). [MorphFader: Enabling Fine-grained Controllable Morphing with Text-to-Audio Models](https://arxiv.org/abs/2408.07260).  
+(Under Review). [See Demo](https://pkamath2.github.io/audio-morphing-with-text/webpage/)
 
 * **Kamath, P.**, Gupta, C., Wyse, L., & Nanayakkara, S. (2024). [Example-Based Framework for Perceptually Guided Audio Texture Generation](https://ieeexplore.ieee.org/abstract/document/10508390/).   
 In **IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE TASLP)**, vol. 32, pp. 2555-2565, 2024.
@@ -27,12 +27,12 @@ In Proceedings of the **CHI Conference on Human Factors in Computing Systems (CH
 # 2023
 
 * **Kamath, P.**, Islam, T. N., Gupta, C., Wyse, L., & Nanayakkara, S. [Dcase task-7: StyleGAN2-based foley sound synthesis. Tech. Rep.](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Kamath_6_t7.pdf), June 2023.  
-<img src="/img/fontawesome/trophy-solid.svg" width=20 height=20> *Won the **3rd place** at [DCASE Foley Sound Synthesis Challenge 2023](https://dcase.community/challenge2023/task-foley-sound-synthesis-results#track-b)*
+<img src="/img/fontawesome/trophy-solid.svg" width=20 height=20> *Won the **3rd place** at [DCASE Foley Sound Synthesis Challenge 2023](https://dcase.community/challenge2023/task-foley-sound-synthesis-results#track-b)*. [Technical Report](https://purnimakamath.com/documents/DCASE2023___Task_7_Technical_Report___Final_Version.pdf)
 
 * **Kamath, P.**, Li, Z., Gupta, C., Jaidka, K., Nanayakkara, S., & Wyse, L. (2023, March). [Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas](https://dl.acm.org/doi/abs/10.1145/3581641.3584083). In Proceedings of the 28th International Conference on **Intelligent User Interfaces (IUI '23)** , March 27–31, Sydney, NSW, Australia, pp. 621-632, 2023.
 
 
-* Gupta, C.<sup> * </sup>, **Kamath, P.** <sup> * </sup>, Wei, Y., Li, Z.,  Nanayakkara, S., & Wyse, L. [Towards Controllable Audio Texture Morphing](https://ieeexplore.ieee.org/abstract/document/10096328/).  In 48th **IEEE Internation Conference on Acoustics, Speech and Signal Processing (ICASSP)** (pp. 1-5), 2023.   
+* Gupta, C.<sup> * </sup>, **Kamath, P.** <sup> * </sup>, Wei, Y., Li, Z.,  Nanayakkara, S., & Wyse, L. [Towards Controllable Audio Texture Morphing](https://ieeexplore.ieee.org/abstract/document/10096328/).  In 48th **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)** (pp. 1-5), 2023.   
 </i><sub><sup>*equal contribution</sup></sub>
   
 # 2022  
