@@ -2,7 +2,7 @@
 type = "news"
 author = ""
 date = "2024-09-13"
-title = "I presented by PhD research at a Hearing Seminar at [**CCRMA** at **<span style='color:#006CB8'>Stanford University</span>**](https://ccrma.stanford.edu/events/purnima-kamath-generative-models-sound-design)!"
+title = "I presented my PhD research at a Hearing Seminar at [**CCRMA** at **<span style='color:#006CB8'>Stanford University</span>**](https://ccrma.stanford.edu/events/purnima-kamath-generative-models-sound-design)!"
 description = ""
 featured = ""
 featuredpath = ""
